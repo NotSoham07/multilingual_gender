@@ -17,9 +17,13 @@ The data consists of EN, ES, FR, along with the newly added DE and IT languages 
 
 ## Extract representations for the datasets
 For English, use src/data/run_bias_bios.sh 
+
 For French, use src/data/run_bias_bios_fr.sh 
+
 For Spanish, use src/data/run_bias_bios_es.sh
+
 For German, use src/data/run_bias_bios_de.sh
+
 For Italian, use src/data/run_bias_bios_it.sh
 
 
