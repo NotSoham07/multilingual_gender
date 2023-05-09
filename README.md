@@ -2,7 +2,8 @@
 # Analyzing Gender Representation in Multilingual Models
 
 This project includes the experiments described in the [paper](https://arxiv.org/pdf/2204.09168.pdf): 
-We have further worked on the existing project and made it multilingual and more robust.
+
+We have further worked on the existing project adding more languages to it and checking it for robustness.
 
 ## Prerequisites
 
@@ -39,7 +40,7 @@ Use the script **src/acc_across_langs.ipynb**
 
 ## Gender and profession classification
 Use the scripts **src/classify_gender.py** and **src/classify_prof.py**
-Use the script **src/classify_gender.py** ```Example python classify_gender.py --lang <select-language> ``` for gender classification on selected language
+Use the script **src/classify_gender.py** Example ```python classify_gender.py --lang <select-language> ``` for gender classification on selected language
 and ```python classify_prof.py --lang <select-language>``` for profession classification on the selected language
 
 ## Checking for robustness
